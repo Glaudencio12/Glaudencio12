@@ -39,11 +39,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-###
 
-
-###
 <br clear="both">
-###
+
 <img align="left" height="" src="https://media.giphy.com/media/YcsPkyAIkfxegkjXck/giphy.gif?cid=ecf05e471zvuklh7jhf9j3xo1d36fwlt64ikdwn0hxsk9gvj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
