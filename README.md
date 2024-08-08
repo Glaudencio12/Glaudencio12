@@ -1,11 +1,10 @@
 <h2 align="left">Hi 👋! My name is Glaudencio, programmer Backend in learning.</h2>
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaudencio12)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -29,13 +28,8 @@
 </div>
 
 ###
-
-<img align="right" height="166" src="https://media.giphy.com/media/YcsPkyAIkfxegkjXck/giphy.gif?cid=ecf05e471zvuklh7jhf9j3xo1d36fwlt64ikdwn0hxsk9gvj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
-  <a href="https://www.instagram.com/__glaudencio__/" target="_blank">
+  <a href="https://www.instagram.com/_glaudencio_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/channels/@me/1207780709322981506" target="_blank">
@@ -46,10 +40,14 @@
   </a>
 </div>
 
+
+###
+
+<img align="left" height="" src="https://media.giphy.com/media/YcsPkyAIkfxegkjXck/giphy.gif?cid=ecf05e471zvuklh7jhf9j3xo1d36fwlt64ikdwn0hxsk9gvj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Glaudencio12/Glaudencio12/output/snake.svg" alt="Snake animation" />
 
 ###
