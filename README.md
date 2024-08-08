@@ -41,7 +41,7 @@
 </div>
 ###
 
-<img src="https://raw.githubusercontent.com/Glaudencio12/Glaudencio12/output/snake.svg" alt="Snake animation" />
+<img align="left" height="" src="https://media.giphy.com/media/YcsPkyAIkfxegkjXck/giphy.gif?cid=ecf05e471zvuklh7jhf9j3xo1d36fwlt64ikdwn0hxsk9gvj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 <br clear="both">
