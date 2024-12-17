@@ -3,11 +3,11 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">  
   <div align="left">  
     <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark&hide_border=false" height="150" alt="Anurag's GitHub stats" />  
-  </div>  
+  </div> </br>  
 
   <div align="left">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />  
-  </div>  
+  </div> </br>
 
   <div align="left">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />  
@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  /> 
     <img width="12" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  </div>  
+  </div> </br>
 
 
 <div align="">  
