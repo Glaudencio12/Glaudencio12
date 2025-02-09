@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋! My name is Glaudencio, developer Back-End 👨🏻‍💻</h1>  
+<h2 align="left">Hi!👋 I’m Glaudencio, a Back-End Developer 👨🏻‍💻.</h2>  
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">  
   <div align="left">  
