@@ -1,4 +1,4 @@
-<h2 align="left">Oi!👋 Eu sou Glaudencio, Desenvolvedor Back-End 👨🏻‍💻.</h2>
+<h2 align="left">Oi!👋 Me chamo Glaudencio 👨🏻‍💻.</h2>
 
 <div>
       <h2>Sobre mim 🙂</h2>
