@@ -24,9 +24,9 @@
 <div style="display: flex; gap: 20px;"> 
       <h2>Estatísticas 📶</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark&hide_border=false"
-            height="150" alt="Estatísticas do GitHub de Glaudencio12" />
+            height="180" alt="Estatísticas do GitHub de Glaudencio12" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
-            height="150" alt="Gráfico de linguagens" />
+            height="180" alt="Gráfico de linguagens" />
 </div>
 
 <div>
@@ -58,10 +58,10 @@
       <h2>Redes Sociais 🌐</h2>
       <a href="mailto:glaudenciocosta015@gmail.com" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-                  height="35" alt="gmail logo" />
+                  height="40" alt="gmail logo" />
       </a>
       <a href="https://www.linkedin.com/in/glaudencio" target="_blank">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge"
-                  height="35" alt="LinkedIn logo" />
+                  height="40" alt="LinkedIn logo" />
       </a>
 </div>
