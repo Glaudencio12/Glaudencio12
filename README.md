@@ -12,8 +12,7 @@
             Minha paixão por tecnologia e programação surgiu durante o curso técnico em informática, onde
             tive contato com diversas ferramentas de desenvolvimento de software. Nesse período, aprendi a
             programar em Python, Java e Javascript em projetos pessoais, além de criar sites com HTML, CSS e
-            JavaScript. Também adquiri conhecimentos em criação e manipulação de banco de dados MySQL com
-            SQL.
+            JavaScript. Também adquiri conhecimentos em criação e manipulação de banco de dados MySQL.
       </p>
       <p>
            No meu tempo livre, gosto de assistir animes, e meus preferidos são Solo Leveling, Re:Zero, Mushoku Tensei e Attack on Titan.
