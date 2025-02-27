@@ -3,21 +3,21 @@
 <div>
       <h2>Sobre mim 🙂</h2>
       <p>
-            Sou Técnico em Informática pelo Instituto Federal do Maranhão (IFMA) e
-            possuo habilidades em programação básica, redes de computadores, arquitetura de computadores e
-            metodologias ágeis de desenvolvimento de softwares, como Scrum. Atualmente, curso Análise e
-            Desenvolvimento de Sistemas na UNIFACID - WYDEN de Teresina.
+            💻 Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação básica,
+            redes de computadores, arquitetura de computadores e metodologias ágeis de desenvolvimento de software, como Scrum. 
+            Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIFACID - WYDEN de Teresina.
       </p>
       <p>
-            Minha paixão por tecnologia e programação surgiu durante o curso técnico em informática, onde
-            tive contato com diversas ferramentas de desenvolvimento de software. Nesse período, aprendi a
-            programar em Python, Java e Javascript em projetos pessoais, além de criar sites com HTML, CSS e
-            JavaScript. Também adquiri conhecimentos em criação e manipulação de banco de dados MySQL.
+            🚀 Minha paixão por tecnologia e programação começou durante o curso técnico em informática, onde tive contato com 
+            diversas ferramentas de desenvolvimento de software. Nesse período, aprendi a programar em Python 🐍, Java ☕ e JavaScript 🌐
+            em projetos pessoais, além de criar sites com HTML, CSS e JavaScript. Também adquiri conhecimentos em banco de dados MySQL 🗄️.
       </p>
       <p>
-           No meu tempo livre, gosto de assistir animes, e meus preferidos são Solo Leveling, Re:Zero, Mushoku Tensei e Attack on Titan.
-           Além disso, aprecio muito assistir a filmes e me divertir jogando com meus amigos. O jogo que eu mais gosto de jogar com eles é Roblox,
-           meu jogo preferido.
+           🎮 No meu tempo livre, gosto de assistir animes 📺, e meus preferidos são Solo Leveling, Re:Zero, Mushoku Tensei e Attack on Titan.
+            Além disso, adoro assistir filmes 🎬 e me divertir jogando com meus amigos. O jogo que mais gosto de jogar com eles é Roblox 🎮, meu favorito!
+      </p>
+       <p>
+           🔹 Sempre buscando aprender mais e evoluir na área de tecnologia!
       </p>
 </div>
 
