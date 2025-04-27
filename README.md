@@ -23,8 +23,8 @@
 
 <div style="display: flex; gap: 20px;"> 
       <h2>Estatísticas 📶</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark&hide_border=false"
-            height="180" alt="Estatísticas do GitHub de Glaudencio12" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark&hide_border=false" height="180" alt="Estatísticas do GitHub de Glaudencio12" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="180" alt="Gráfico de linguagens" />
 </div>
 
 <div>
