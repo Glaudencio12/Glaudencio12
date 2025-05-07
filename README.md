@@ -3,18 +3,14 @@
 <div>
       <h2>Sobre mim 🙂</h2>
       <p>
-            💻 Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação básica,
-            redes de computadores, arquitetura de computadores e metodologias ágeis de desenvolvimento de software, como Scrum. 
+            💻 Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação, redes de computadores, 
+            arquitetura de computadores e metodologias ágeis de desenvolvimento de software, como Scrum. 
             Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIFACID - WYDEN de Teresina.
       </p>
       <p>
             🚀 Minha paixão por tecnologia e programação começou durante o curso técnico em informática, onde tive contato com 
             diversas ferramentas de desenvolvimento de software. Nesse período, aprendi a programar em Python 🐍, Java ☕ e JavaScript 🌐
             em projetos pessoais, além de criar sites com HTML, CSS e JavaScript. Também adquiri conhecimentos em banco de dados MySQL 🗄️.
-      </p>
-      <p>
-           🎮 No meu tempo livre, gosto de assistir animes 📺, e meus preferidos são Solo Leveling, Re:Zero, Mushoku Tensei e Attack on Titan.
-            Além disso, adoro assistir filmes 🎬 e me divertir jogando com meus amigos. O jogo que mais gosto de jogar com eles é Roblox 🎮, meu favorito!
       </p>
        <p>
            🔹 Sempre buscando aprender mais e evoluir na área de tecnologia!
@@ -45,7 +41,9 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="intellij logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="springboot logo" />
+      <img width="12" />
+      <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" height="30" alt="SpringBoot logo" />
 </div>
 
 <div>
