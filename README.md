@@ -3,14 +3,14 @@
 <div>
       <h2>Sobre mim 🙂</h2>
       <p>
-            💻 Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação, redes de computadores, 
+            Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação, redes de computadores, 
             arquitetura de computadores e metodologias ágeis de desenvolvimento de software, como Scrum. 
             Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIFACID - WYDEN de Teresina.
       </p>
       <p>
-            🚀 Minha paixão por tecnologia e programação começou durante o curso técnico em informática, onde tive contato com 
-            diversas ferramentas de desenvolvimento de software. Nesse período, aprendi a programar em Python 🐍, Java ☕ e JavaScript 🌐
-            em projetos pessoais, além de criar sites com HTML, CSS e JavaScript. Também adquiri conhecimentos em banco de dados MySQL 🗄️.
+            Minha paixão por tecnologia e programação surgiu durante o curso técnico em informática, quando tive a oportunidade de explorar diversas ferramentas de desenvolvimento.
+           Tenho experiência prática em Python (nível básico), Java (intermediário) e JavaScript (básico), além de criar sites utilizando HTML, CSS. Também possuo conhecimentos em banco de dados 
+           MySQL. No momento, estou aprofundando meus estudos no framework Spring Boot em Java, aplicando-o na criação de APIs RESTful robustas e escaláveis.
       </p>
        <p>
            🔹 Sempre buscando aprender mais e evoluir na área de tecnologia!
