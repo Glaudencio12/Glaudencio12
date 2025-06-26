@@ -36,6 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
     <img src="https://hermes.dio.me/skills/0bedd1a3-09b4-4bb0-b918-9e25e474e26f.png" height="40" alt="springboot logo" title="Spring Boot" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" title="Docker" />
   </div>
   </div>
 </div>
