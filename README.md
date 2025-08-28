@@ -3,14 +3,11 @@
 <div>
       <h2>Sobre mim 🙂</h2>
       <p>
-            Técnico em Informática pelo Instituto Federal do Maranhão (IFMA), com habilidades em programação, redes de computadores, 
-            arquitetura de computadores e metodologias ágeis de desenvolvimento de software, como Scrum. 
-            Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIFACID - WYDEN de Teresina.
+            Olá, me chamo Glaudencio, sou estudante de Análise e Desenvolvimento de Sistemas e também formado como Técnico em Informática pelo IFMA. Tenho conhecimentos em Java, Spring Boot, APIs REST, MySQL, Docker,                                  JUnit 5 e versionamento com Git/GitHub, além de familiaridade com metodologias ágeis como Scrum.
       </p>
       <p>
             Minha paixão por tecnologia e programação surgiu durante o curso técnico em informática, quando tive a oportunidade de explorar diversas ferramentas de desenvolvimento.
-           Tenho experiência prática em Python (nível básico), Java (intermediário) e JavaScript (básico), além de criar sites utilizando HTML, CSS. Também possuo conhecimentos em banco de dados 
-           MySQL. No momento, estou aprofundando meus estudos no framework Spring Boot em Java, aplicando-o na criação de APIs RESTful robustas e escaláveis.
+            Tenho experiência com projetos práticos de APIs, desenvolvendo sistemas com foco em organização, testes, persistência de dados e boas práticas de desenvolvimento. 
       </p>
        <p>
            🔹 Sempre buscando aprender mais e evoluir na área de tecnologia!
