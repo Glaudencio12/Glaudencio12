@@ -36,6 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" title="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="Junit 5 logo" title="JUnit" />
     <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" height="40" alt="Spring Security logo" title="Spring Security" />
+    <img src="https://42crunch.com/wp-content/uploads/2025/03/openapi-hd-logo-transparent.png" height="45" alt="Swagger - Open API logo" title="Swagger - Open API" />
   </div>
   </div>
 </div>
