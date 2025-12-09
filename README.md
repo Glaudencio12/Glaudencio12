@@ -3,7 +3,7 @@
 <div>
       <h2>Sobre mim 🙂</h2>
       <p>
-            Olá, me chamo Glaudencio, sou estudante de Análise e Desenvolvimento de Sistemas e também formado como Técnico em Informática pelo IFMA. Tenho conhecimentos em Java, Spring Boot, APIs REST, MySQL, Docker,                                  JUnit 5 e versionamento com Git/GitHub, além de familiaridade com metodologias ágeis como Scrum.
+            Olá, me chamo Glaudencio, sou estudante de Análise e Desenvolvimento de Sistemas e também formado como Técnico em Informática pelo IFMA. Tenho conhecimentos em Java, Spring Boot, APIs REST, MySQL, Docker, JUnit 5, Mockito, Testes de Integração, Spring Security e versionamento com Git/GitHub, além de familiaridade com metodologias ágeis como Scrum.
       </p>
       <p>
             Minha paixão por tecnologia e programação surgiu durante o curso técnico em informática, quando tive a oportunidade de explorar diversas ferramentas de desenvolvimento.
@@ -16,8 +16,16 @@
 
 <div style="display: flex; gap: 20px;"> 
       <h2>Estatísticas 📶</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Glaudencio12&show_icons=true&theme=dark&hide_border=false" height="180" alt="Estatísticas do GitHub de Glaudencio12" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glaudencio12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="180" alt="Gráfico de linguagens" />
+     <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glaudencio12&theme=tokyonight" height="160"
+      />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glaudencio12&theme=tokyonight" height="160"
+      />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Glaudencio12&theme=tokyonight" height="160"
+      />
+
 </div>
 
 <div>
